@@ -23,3 +23,15 @@
 	<stdio.h>
 	"Beer.h"
 
+1550581982 source:/Users/Claus/Documents/GitHub/DoES/lektion-3/Beer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Beer.h"
+
+1550581982 /Users/Claus/Documents/GitHub/DoES/lektion-3/Beer.h
+
+1550581983 source:/Users/Claus/Documents/GitHub/DoES/lektion-3/main.c
+	<stdio.h>
+	"Beer.h"
+
